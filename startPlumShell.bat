@@ -1,0 +1,1 @@
+python "E:\PRO\python\plumShell\plumShell.py"
