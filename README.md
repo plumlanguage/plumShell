@@ -36,6 +36,10 @@
 3. 点击“环境变量”，在“系统变量”中找到“Path”，点击“编辑”
 4. 点击“新建”，将第一步复制的路径粘贴到新建的环境变量中
 
+### 配置plumShell资源文件
+1. 解压出啦的文件夹中除了`plumShell.exe`外，还有一个`plumShellData`文件夹，将这个文件夹复制到当前用户的`AppData\Roaming`文件夹中
+2. OK！
+
 ### 配置PowerShell启动参数(适用新PowerShell)
 
 1. 打开PowerShell的设置
